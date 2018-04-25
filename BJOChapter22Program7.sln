@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballLibrary", "BaseballLibrary\BaseballLibrary.csproj", "{3E514220-0C2C-4A4D-8192-3061BA8CE235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballQuery", "BaseballQuery\BaseballQuery.csproj", "{AAA88B01-989D-49FC-8DCA-C814FFBC2A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E514220-0C2C-4A4D-8192-3061BA8CE235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E514220-0C2C-4A4D-8192-3061BA8CE235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E514220-0C2C-4A4D-8192-3061BA8CE235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E514220-0C2C-4A4D-8192-3061BA8CE235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA88B01-989D-49FC-8DCA-C814FFBC2A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA88B01-989D-49FC-8DCA-C814FFBC2A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA88B01-989D-49FC-8DCA-C814FFBC2A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA88B01-989D-49FC-8DCA-C814FFBC2A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
